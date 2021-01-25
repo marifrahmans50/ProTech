@@ -1,0 +1,9 @@
+Sumber Referensi :
+https://www.codepolitan.com/belajar-membuat-aplikasi-android-dengan-kotlin-untuk-pemula-bagian-3-login-dengan-autentikasi-firebase
+https://medium.com/swlh/google-login-and-logout-in-android-with-firebase-kotlin-implementation-73cf6a5a989e
+https://www.dicoding.com/academies/51/tutorials/1224
+https://rosyidiz.medium.com/custom-listview-android-user-interaction-dengan-kotlin-9b0bb5be5ae8
+https://www.webhozz.com/blog/category/belajar-android/page/3/
+https://developer.android.com/reference/android/text/Layout.Alignment
+http://gedelumbung.com/tutorial-android-cara-parsing-variabel-dari-activity-ke-activity-lainnya/
+https://developer.android.com/guide/topics/ui/declaring-layout?hl=id
